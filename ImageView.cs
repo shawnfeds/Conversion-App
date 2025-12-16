@@ -18,7 +18,7 @@ namespace Base64
                 saveFileDialog.Filter =
                     "JPEG Image|*.jpg|PNG Image|*.png|Bitmap Image|*.bmp|GIF Image|*.gif";
                 saveFileDialog.Title = "Save an Image File";
-                saveFileDialog.FileName = "MyImage"; // default name
+                saveFileDialog.FileName = "bas64ToImage"; // default name
 
                 if (saveFileDialog.ShowDialog() == DialogResult.OK)
                 {
