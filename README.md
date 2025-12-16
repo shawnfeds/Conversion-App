@@ -81,7 +81,7 @@ The executable will be available in the publish folder.
 
 ## 🚀 Download
 
-You can grab the latest portable `.exe` from the [Releases page]((https://github.com/shawnfeds/Conversion-App/releases/latest).
+You can grab the latest portable `.exe` from the [Releases page](https://github.com/shawnfeds/Conversion-App/releases/latest).
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
